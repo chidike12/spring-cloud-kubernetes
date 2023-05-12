@@ -1,4 +1,4 @@
-@Library('jenkins-shared-library1@main') _
+@Library('https://github.com/DEVOPS-WITH-WEB-DEV/jenkins-shared-library1') _
 pipeline {
 
   agent any
